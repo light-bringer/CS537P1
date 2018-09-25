@@ -11,4 +11,12 @@ typedef struct flag{
         int c;
 } flag;
 
+typedef struct info{
+	char* state;
+	char* uTime;
+	char* sTime;
+	char* vMem;
+	
+} info;
+
 #endif
